@@ -31,5 +31,3 @@ services:
       - media:/app/media/
     ports:
       - 9000:80
-
-
